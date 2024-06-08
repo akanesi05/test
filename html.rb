@@ -21,3 +21,4 @@
 # これまでProgate上では「stylesheet.css」で記述したCSSが結果に反映されていましたが、本来はHTMLの方で読み込む必要があります。
 # HTMLからCSSを読み込むためには、<link rel="stylesheet">を用います。
 # <link rel="stylesheet" href="stylesheet.css">のように、href属性で読み込むCSSファイルを指定します。
+#<li>要素にlist-styleプロパティを用いてnoneを指定すると、リストの先頭のマークを消すことができます。
